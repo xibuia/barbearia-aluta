@@ -3,7 +3,13 @@
  <head>
    <meta charset="UTF-8">
    <title>Barbearia Alura</title>
+
+   <style>
+       p {
+           text-align: center
+       }  
 </head>
+
 <body>
    <h1 style="text-align: center"> Sobre a Barbearia Alura </h1>
 
