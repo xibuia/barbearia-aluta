@@ -17,5 +17,14 @@
    <p id="missao"><em>Nossa missao e: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
 
    <p>Oferecemos profissionais experientes e antenados as mudancas no mundo da moda. O atendimento possui padrao de excelencia e agilidade, garantindo qualidade e satisfacao dos nossos clientes.</p>
+
+   <h2>beneficios</h2>
+
+   <ul>
+       <li>atendimento aos clintes</li>
+       <li>espaco diferenciado</li>
+       <li>localizacao</li>
+       <li>profissionais qualificados</li>
+   </ul>
  </body>
 </html>
