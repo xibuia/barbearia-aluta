@@ -2,7 +2,7 @@ body {
     background: #CCCCCC
 }
 
-#banner{
+#banner {
     width: 100%;
 }
 
@@ -10,10 +10,14 @@ p {
     text-align: center;
 }
 
-#missao{
+#missao {
     font-size: 20px
 }
 
 em strong {
     color: #FF0000;
+}
+
+.itens {
+    font-style: italic
 }
