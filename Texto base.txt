@@ -8,7 +8,7 @@
 
 <body>
    <img id="banner" src="banner.jpg">
-   <div>
+   <div class="principal">
       <h1 style="text-align: center"> Sobre a Barbearia Alura </h1>
 
       <p>Localizada no coracao da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que ha de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura ja e destaque na cidade e 
