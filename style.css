@@ -1,9 +1,13 @@
 body {
-    background: #CCCCCC
+    
 }
 
 #banner {
     width: 100%;
+}
+
+.principal{
+    background: #CCCCCC
 }
 
 p {
@@ -24,4 +28,8 @@ em strong {
 
 .beneficios {
     background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
 }
