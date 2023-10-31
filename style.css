@@ -7,6 +7,10 @@ body {
     padding: 30px;
 }
 
+.titulo-principal{
+    padding: 30px;
+}
+
 .titulo-centralizado {
     text-align: center;
 }
